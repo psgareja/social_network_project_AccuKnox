@@ -48,6 +48,23 @@ python manage.py runserver
 
 **List Pending Friend Requests**: /api/list-pending-requests/ (GET)
 
+# Example
+
+**Signup**: /api/signup/
+
+**URL**:http://localhost:8000/api/singup/
+
+**Body**: {
+
+    "username": "example_user",
+    
+    "email": "user@example.com",
+    
+    "password": "password123"
+    
+}
+
+
 ## Postman Collection Link:
 https://www.postman.com/lunar-module-explorer-98808198/workspace/socialmediaproject/collection/34066709-0b562726-2d7d-40ae-b3e9-b4b8eceaca3a?action=share&creator=34066709
 
