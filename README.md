@@ -52,6 +52,8 @@ python manage.py runserver
 
 **Signup**: /api/signup/
 
+**Method**: POST
+
 **URL**:http://localhost:8000/api/singup/
 
 **Body**: {
